@@ -1,3 +1,10 @@
+tkinter
 pyautogui
+threading
 requests
-Pillow
+pillow
+keyboard
+shutil
+zipfile
+platform
+configparser
